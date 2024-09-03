@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(139, 132, 132);
+    background-color: rgb(222, 213, 213);
     text-align: center;
 }
     main{
         text-align: center;
     }
     footer{
-        margin-top: 300em;
+        margin-top: 100em;
         text-align: end;
     }
