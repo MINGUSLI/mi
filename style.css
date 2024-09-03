@@ -1,4 +1,6 @@
 body{
     background-color: aqua;
-    display: flex;
 }
+    main{
+        display: flex;
+    }
