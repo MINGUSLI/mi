@@ -10,10 +10,12 @@ body{
         text-align: center;
     }
     .oi {
-       height: 90px;
-    }
+        height: 10px;
+     }
+    .io{
+        height: 10px;
+     }
     input{   background-color: rgb(255, 255, 255);
-
  }
 
   
