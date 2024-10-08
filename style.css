@@ -10,12 +10,12 @@ body{
         text-align: center;
     }
     .oi {
-       width: 90px;
+       height: 90px;
     }
     input{   background-color: rgb(255, 255, 255);
 
  }
- 
+
   
         button{
             background-color: rgb(170, 0, 255);
