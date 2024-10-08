@@ -9,12 +9,11 @@ body{
         margin-top: 100em;
         text-align: center;
     }
-    .oi {
-        width: 10px;
-     }
-    .io{
-        width: 10px;
-     }
+    img {
+        height: 200px;
+        object-fit: cover;
+        width: 200px;
+    }
     input{   background-color: rgb(255, 255, 255);
  }
 
