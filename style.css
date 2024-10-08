@@ -10,10 +10,12 @@ body{
         text-align: center;
     }
     .oi {
-        background-image: url( https://www.reddit.com/r/MonsterHunter/comments/1763s4i/i_thought_there_were_only_14_weapons/#lightbox);
+       width: 50%;
     }
     input{   background-color: rgb(255, 255, 255);
-
+.io {
+    width: 50%;
+ }
     }
   
         button{
