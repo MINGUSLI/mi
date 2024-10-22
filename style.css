@@ -16,7 +16,7 @@ body{
     }
     .oi {
             height: 200px;
-            object-fit: fill
+            object-fit: fill;
             width: 600px;
         }
     input{   background-color: rgb(255, 255, 255);
