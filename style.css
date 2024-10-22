@@ -14,7 +14,7 @@ body{
         object-fit: fill;
         width: 600px;
     }
-    .oi {
+    oi {
             height: 200px;
             object-fit: fill
             width: 600px;
