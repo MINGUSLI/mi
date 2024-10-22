@@ -9,14 +9,14 @@ body{
         margin-top: 100em;
         text-align: center;
     }
-    .ca{
+    .io{
         height: 200px;
         object-fit: fill;
         width: 600px;
     }
     .oi {
             height: 200px;
-            object-fit: fill;
+            object-fit: fill
             width: 600px;
         }
     input{   background-color: rgb(255, 255, 255);
