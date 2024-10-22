@@ -11,12 +11,12 @@ body{
     }
     .io{
         height: 200px;
-        object-fit: cover;
+        object-fit: fill;
         width: 600px;
     }
     .oi {
             height: 200px;
-            object-fit: cover;
+            object-fit: scale-down;
             width: 600px;
         }
     input{   background-color: rgb(255, 255, 255);
