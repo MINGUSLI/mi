@@ -11,11 +11,9 @@ body{
     }
     .op{
         height: 200px;
-        object-fit: fill;
         width: 600px;
     }
     .oi {
             height: 200px;
-            object-fit: scale-down;
             width: 600px;
     }
