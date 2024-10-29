@@ -9,9 +9,7 @@ body{
         margin-top: 100em;
         text-align: center;
     }
-    .op{
-        width: 600px;
-    }
-    .oi {
-            width: 600px;
-    }
+        img{
+            width: 300;
+            height: auto;
+        }
