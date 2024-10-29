@@ -5,11 +5,11 @@ body{
     main{
         text-align: center;
     }
-    .footer{
+    footer{
         margin-top: 100em;
         text-align: center;
     }
-    .img{
-            width: 300px;
+        img{ 
+            width: 100px;
             height: auto;
         }
