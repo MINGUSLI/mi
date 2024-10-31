@@ -12,4 +12,5 @@ body{
         img{ 
             width: 1000px;
             height: auto;
+            align-items: end;
         }
