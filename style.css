@@ -1,12 +1,12 @@
-body{
+    :root{
+        --branco-pincipal: #FFFFF;
+    }
+    body{
     background-image:url("mod.jpg");
     text-align: center;
+    font-family: var(--branco-pincipal);
 }
     main{
-        text-align: center;
-    }
-    footer{
-        margin-top: 100em;
         text-align: center;
     }
         img{ 
@@ -14,3 +14,4 @@ body{
             height: 200px;
 
         }
+        
