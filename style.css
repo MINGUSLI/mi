@@ -1,5 +1,5 @@
 body{
-    background-image:url(mod.jpg)
+    background-image:url("mod.jpg");
     text-align: center;
 }
     main{
