@@ -1,8 +1,8 @@
     :root{
-        --branco-pincipal: #FFFFF;
+        --branco-pincipal: #FFFF;
     }
     body{
-    background-image:url("mod.jpg");
+    background-color: black;
     text-align: center;
     font-family: var(--branco-pincipal);
 }
