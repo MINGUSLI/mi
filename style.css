@@ -1,10 +1,10 @@
     :root{
-        --branco-pincipal: #000000;
+        --branco-pincipal: ;
     }
     body{
     background-color: rgb(255, 255, 255);
     text-align: center;
-     color:aquamarine;
+     color:rgb(0, 0, 0);
 }
     main{
         text-align: center;
