@@ -1,23 +1,19 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-z<head>
-<link rel="stylesheet" href="io.java">
-<link rel="stylesheet" href="style.css">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cutelaria dos deuses </title>
-</head>
+et x;
+let y;
 
-<body>
-    <h1>temperatura do metal </h1>
- <section class="tenperatura">
-    <img src="mig.png" alt="oi">
-</section>
-    <main>
-    </div>
-    </main>
-    <footer>
-        contato:********
-    </footer>
-</body>
-</html>
+function setup() {
+  createCanvas(400, 400);
+  x = random(400);
+  x = int(x);
+  y = random(400);
+  y = int(y);
+}
+
+function draw() {
+  background(220);
+  circle(x, y, 10);
+    
+  if(mouseX == x) {
+    text("Encontrei!", 200, 200);
+  }
+}
